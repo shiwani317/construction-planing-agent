@@ -1,10 +1,5 @@
 flask
-crewai
-openai
-langchain
+flask-cors
 networkx
 matplotlib
 python-dotenv
-pandas
-flask-cors
-groq
